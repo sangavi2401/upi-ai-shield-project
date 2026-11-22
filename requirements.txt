@@ -1,0 +1,2 @@
+Flask gunicorn numpy
+opencv-python-headless requests
